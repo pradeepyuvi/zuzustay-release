@@ -1,0 +1,8 @@
+Short Description
+Manage PGs, properties, rooms, tenants, rent, and payments with ease.
+
+Full description
+ZUZUStay is a smart PG management app that helps owners manage properties, rooms, tenants, rent, and payments from one place. Track occupancy, record rent collections, monitor Payments, view analytics, and simplify daily operations. Built for PG owners, hostels, and rental accommodations with an easy-to-use interface and secure cloud storage. Save time, reduce paperwork, and manage your business efficiently.
+
+Release notes
+Welcome to ZUZUStay! This first release includes property management, room management, tenant records, rent tracking, payment management, analytics, and performance enhancements for a smooth experience.
