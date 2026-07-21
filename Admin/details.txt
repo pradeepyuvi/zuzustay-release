@@ -1,0 +1,32 @@
+Here's the App Store version in the same format:
+
+| Field             | Value                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| ------------------| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Short Description | Admin dashboard to manage users, properties, approvals and platform operations.                                                                                                                                                                                                                                                                                                           |
+| Full description  | ZUZUStay is a smart property management app designed for PG owners, hostel operators, and rental property managers. Manage properties, rooms, tenants, occupancy, rent, and payments from one place. Track occupancy, monitor payment status, manage check-ins and check-outs, and simplify daily operations with an easy-to-use interface and secure cloud storage. Save time, reduce paperwork, and efficiently manage your property business anytime, anywhere. |
+| Release notes     | Welcome to ZUZUStay! This initial release includes property management, room management, tenant management, occupancy tracking, rent and payment management, analytics, performance improvements, and bug fixes for a smooth and reliable experience.                                                                                                                                                                                                              |
+
+about this app:
+ZUZUStay Admin is the official administration app for the ZUZUStay platform. It is designed exclusively for authorized administrators to manage platform operations efficiently.
+
+With ZUZUStay Admin, you can:
+
+Review and approve property registrations
+Manage users and property owners
+Monitor properties and occupancy
+View platform-wide statistics
+Handle approvals and administrative tasks
+Monitor tenant and property data
+Manage support requests
+Ensure smooth platform operations
+
+Key Features
+
+Property approval workflow
+User management
+Platform monitoring
+Occupancy insights
+Secure administrator access
+Fast and intuitive interface
+
+Note: This app is intended for authorized ZUZUStay administrators only. PG owners and property managers should use the ZUZUStay: PG & Property Manager app.
