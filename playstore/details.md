@@ -2,16 +2,16 @@ Here's the App Store version in the same format:
 
 | Field             | Value                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | ------------------| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Short Description | Manage your PG properties, rooms, tenants, rent, and payments with ZUZUStay.                                                                                                                                                                                                                                                                                                           |
-| Full description  | ZUZUStay is a smart property management app designed for PG owners, hostel operators, and rental property managers. Manage properties, rooms, tenants, occupancy, rent, and payments from one place. Track occupancy, monitor payment status, manage check-ins and check-outs, and simplify daily operations with an easy-to-use interface and secure cloud storage. Save time, reduce paperwork, and efficiently manage your property business anytime, anywhere. |
-| Release notes     | Welcome to ZUZUStay! This initial release includes property management, room management, tenant management, occupancy tracking, rent and payment management, analytics, performance improvements, and bug fixes for a smooth and reliable experience.                                                                                                                                                                                                              |
+| Short Description | Manage your PG properties, rooms, tenants, rent, and payments with Naadhe.                                                                                                                                                                                                                                                                                                           |
+| Full description  | Naadhe is a smart property management app designed for PG owners, hostel operators, and rental property managers. Manage properties, rooms, tenants, occupancy, rent, and payments from one place. Track occupancy, monitor payment status, manage check-ins and check-outs, and simplify daily operations with an easy-to-use interface and secure cloud storage. Save time, reduce paperwork, and efficiently manage your property business anytime, anywhere. |
+| Release notes     | Welcome to Naadhe! This initial release includes property management, room management, tenant management, occupancy tracking, rent and payment management, analytics, performance improvements, and bug fixes for a smooth and reliable experience.                                                                                                                                                                                                              |
 
 about this app:
 # About this app
 
-Manage your PG, hostel, and rental properties with ease using ZUZUStay. Track rooms, tenants, monthly rent status, occupancy, and property performance—all from one simple and secure app.
+Manage your PG, hostel, and rental properties with ease using Naadhe. Track rooms, tenants, monthly rent status, occupancy, and property performance—all from one simple and secure app.
 
-ZUZUStay helps property owners and managers save time by digitizing daily operations, reducing paperwork, and keeping important information organized.
+Naadhe helps property owners and managers save time by digitizing daily operations, reducing paperwork, and keeping important information organized.
 
 ### 🏠 Property Management
 
@@ -53,7 +53,7 @@ Designed for speed and ease of use so you can complete daily property management
 
 ### 📈 Built for Growing Businesses
 
-Whether you manage a single PG or multiple properties, ZUZUStay helps you organize your operations efficiently as your business grows.
+Whether you manage a single PG or multiple properties, Naadhe helps you organize your operations efficiently as your business grows.
 
 ### ⭐ Key Features
 
@@ -75,5 +75,5 @@ Whether you manage a single PG or multiple properties, ZUZUStay helps you organi
 
 ✅ Regular updates with new features
 
-ZUZUStay is the perfect property management solution for PG owners, hostel operators, co-living spaces, and rental property managers looking to simplify daily operations and manage everything from one place.
+Naadhe is the perfect property management solution for PG owners, hostel operators, co-living spaces, and rental property managers looking to simplify daily operations and manage everything from one place.
 

@@ -1,4 +1,4 @@
-# ZuZuStay Release Assets
+# Naadhe Release Assets
 Play Store (Android) and App Store (iOS) graphics, icons, details, and screenshots.
 
 ---
